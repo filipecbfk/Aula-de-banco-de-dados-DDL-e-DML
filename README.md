@@ -1,4 +1,4 @@
-# Aula-de-banco-de-dados-DDL-e-DML
+# Aula-de-banco-de-dados-DDL-e-DML      <>*SENAC*
 **DDL (Data Definition Language)** e **DML (Data Manipulation Language)** são dois tipos de comandos SQL que têm propósitos diferentes no contexto de um banco de dados. Vou explicar a diferença e como cada um é utilizado:
 
 ### 1. **DDL (Data Definition Language)**
